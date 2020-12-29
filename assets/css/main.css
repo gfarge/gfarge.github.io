@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #a2a2a2;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 16pt;
+		font-size: 18pt;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -132,6 +132,8 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-size: 15pt;
+		line-height: 1.3em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2143,7 +2145,7 @@ input, select, textarea {
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 200%;
 			}
 
 /* List */
@@ -2639,7 +2641,7 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
+			margin: 0 5em 1em 0;
 			width: 6.25em;
 		}
 
