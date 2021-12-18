@@ -18,7 +18,7 @@ and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/acc
 Right now, I am visiting [William Frank's group at MIT](https://eqsci.mit.edu/tecto/), 
 for a 6-months visiting stay.
 
-*I am currently actively looking for postdoc positions, feel free to reach out!*
+*I am actively looking for postdoc positions, feel free to reach out!*
 
 ## Research and project interests
 
