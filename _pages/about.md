@@ -24,4 +24,4 @@ for a 6-months visiting stay.
 
 * Fluid-rock interactions and the dynamics of faults, volcanoes and glaciers
 * Seismic/accoustic signals as ways to understand minute geophysical processes
-* Numerical and experimental modeling to study *all* geophysical and planetary processes...
+* Numerical and experimental modeling to study *all* geophysical and planetary processes!
