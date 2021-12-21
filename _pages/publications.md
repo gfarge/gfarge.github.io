@@ -13,10 +13,10 @@ author_profile: true
   <a href="https://doi.org/10.1029/2021JB021894" target="_blank" class="btn btn--small" id="doi-btn">Paper</a>
   <a href="https://gfarge.github.io/files/farge2021Episodicity.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>
 * **Combining audio and visual displays to highlight temporal and spatial
-  seismic patterns** 
+  seismic patterns**  
   By Arthur Paté, **G. Farge**, B. K. Holtzman, A. C. Barth, P. Poli, L. Boschi, and
   L. Karlstrom (2021)  
-  Journal on Multimodal User Interfaces
+  Journal on Multimodal User Interfaces  
   <a href="https://doi.org/10.1007/s12193-021-00378-8" target="_blank" class="btn btn--small" id="doi-btn">Paper</a>
   <a href="https://gfarge.github.io/files/pate2021Combining.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>
 
