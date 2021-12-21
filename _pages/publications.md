@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* *Episodicity and Migration of Low Frequency Earthquakes Modeled With Fast
+  Fluid Pressure Transients in the Permeable Subduction Interface*  
+  **Gaspard Farge**, C. Jaupart, and N. Shapiro (2021)   
+  Journal of Geophysical Research: Solid Earth, 126(9).  
+  <a href="https://doi.org/10.1029/2021JB021894" class="btn btn-default" id="doi-btn">Paper</a>
 
-{% include base_path %}
+* *Moment‐Duration Scaling of Low‐Frequency Earthquakes in Guerrero, Mexico*  
+  **Gaspard Farge**, N. Shapiro, and W. B. Frank, (2020)  
+  Journal of Geophysical Research: Solid Earth, 125(8). 
+  <a href="https://doi.org/10.1029/2019JB019099" class="btn btn-default" id="doi-btn">Paper</a>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* *Combining audio and visual displays to highlight temporal and spatial
+  seismic patterns. Journal on Multimodal User Interfaces*  
+  Arthur Paté, *G. Farge*, B. K. Holtzman, A. C. Barth, P. Poli, L. Boschi, and
+  L. Karlstrom, (2021).  
+  <a href="https://doi.org/10.1007/s12193-021-00378-8" class="btn btn-default" id="doi-btn">Paper</a>
+ 
