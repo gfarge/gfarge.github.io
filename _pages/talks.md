@@ -20,6 +20,7 @@ author_profile: true
 	* 2 June 2021 — IPGP, Geological fluid dynamics group  
 	* 7 May 2021 — ISTerre, Waves and structures group <span style="color:deeppink"><sup>***‡***</sup></span>
 
+---
 ## Conference presentations
 
 * **Clogging and un-clogging of the subduction plumbing system draws tremor-like
