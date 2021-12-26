@@ -13,6 +13,7 @@ author_profile: true
   <a href="https://doi.org/10.1029/2021JB021894" target="_blank" class="btn btn--small" id="doi-btn">paper</a>
   <a href="https://gfarge.github.io/files/farge2021Episodicity.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>
   <a href="https://www.youtube.com/watch?v=vmb4xFLTKNQ" target="_blank" class="btn btn--small" id="doi-btn">talk</a>
+  <a href="https://gfarge.github.io/files/virtualdisplayEGU21.pdf" target="_blank" class="btn btn--small" id="doi-btn">poster</a>
 * **Combining audio and visual displays to highlight temporal and spatial
   seismic patterns**  
   By Arthur Paté, **G. Farge**, B. K. Holtzman, A. C. Barth, P. Poli, L. Boschi, and
