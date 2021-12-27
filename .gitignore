@@ -1,4 +1,4 @@
 _site/
 *ipynb_checkpoints
 TODO.txt
-
+.DS_Store
