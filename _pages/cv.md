@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+
 <!-- Custom table for the resume: easier alignment-->
 <style>
 table, tbody, td, th {
@@ -15,7 +17,7 @@ table, tbody, td, th {
 </style>
 <!-- Custom table for the resume: easier alignment-->
 <!-- JS to automatically put date?-->
-You can find a more complete resume [here](gfarge.github.io/files/fargeCV0621.pdf) (last updated June 2021).
+You can find a more complete resume [here]({{ base_path }}/files/fargeCV0621.pdf) (last updated June 2021).
 
 ## Education
 
