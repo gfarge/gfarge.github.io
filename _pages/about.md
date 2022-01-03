@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,3 +25,10 @@ for a 6-months visiting stay.
 * Fluid-rock interactions and the dynamics of faults, volcanoes and glaciers
 * Seismic/accoustic signals as ways to understand minute geophysical processes
 * Numerical and experimental modeling to study *all* geophysical and planetary processes!
+
+<!-- ## More about me
+
+ About my ideal research environment: fostering curiosity and initiative,
+while actively working together, to give a feeling of a group. Kindness and
+trust in our work environment is core to feeling well, as research tends to be
+very personnal.-->
