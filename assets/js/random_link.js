@@ -1,4 +1,5 @@
 var sites = [
+  "https://www.mbari.org/soundscape-listening-room/",
   "https://www.fabiocrameri.ch/colourmaps/",
   "https://colorhunt.co/",
   "https://krischer.github.io/seismo_live_build/",
