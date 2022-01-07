@@ -28,3 +28,4 @@ author_profile: true
   Journal of Geophysical Research: Solid Earth, 125(8)  
   <a href="https://doi.org/10.1029/2019JB019099" target="_blank" class="btn btn--small" id="doi-btn">paper</a>
   <a href="https://gfarge.github.io/files/farge2020Moment.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>
+  <a href="https://gfarge.github.io/files/Farge2020-LFE-original.zip" target="_blank" class="btn btn--small" id="doi-btn">catalog</a>
