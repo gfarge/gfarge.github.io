@@ -10,7 +10,7 @@ author_profile: true
   Kamtchatka volcanoes**  
   By Cyril Journeau, N. Shapiro, L. Seydoux, J. Soubestre, I. Koulakov, A.
   Jakovlev, I. Abkadyrov, E. Gordeev, D. Chebrov, D. Droznin, C.
-  Sens-Schönfelder, B. Luehr, F. Tong, **G. Farge** and C. Jaupart (2022)
+  Sens-Schönfelder, B. Luehr, F. Tong, **G. Farge** and C. Jaupart (2022)  
   Science Advances  
   <a href="https://doi.org/10.1126/sciadv.abj1571" target="_blank" class="btn btn--small" id="doi-btn">paper</a>
   <a href="https://gfarge.github.io/files/journeau2022Seismic.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>

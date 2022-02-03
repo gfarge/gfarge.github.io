@@ -18,6 +18,7 @@ table, tbody, td, th {
 <!-- Custom table for the resume: easier alignment-->
 <!-- JS to automatically put date?-->
 You can find a more complete resume [here]({{ base_path }}/files/fargeCV0621.pdf) (last updated June 2021).
+{: .notice}
 
 ## Education
 
