@@ -26,7 +26,8 @@ for a 6-months visiting stay.
 * Seismic/accoustic signals as ways to understand minute geophysical processes
 * Numerical and experimental modeling to study *all* geophysical and planetary processes!
 
-
+&#128601;
+{: .text-center}
 
 
 ## 📬 *News*
