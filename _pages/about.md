@@ -25,11 +25,12 @@ for a 6-months visiting stay.
 * The architecture, dynamics and evolution of fluid circulation pathways in faults, volcanoes and glaciers
 * Seismic/accoustic signals as ways to understand minute geophysical processes
 * Numerical and experimental modeling to study *all* geophysical and planetary processes!
+{: .text-left}
 
-&#128601;
+ 
+
+&#9677;
 {: .text-center}
-
-
 ## 📬 *News*
 
 📅 *2 February 2022* : Our [paper](https://doi.org/10.1126/sciadv.abj1571) on seismic tremor under Kamtchatka volcanoes is out in Science Advances!
