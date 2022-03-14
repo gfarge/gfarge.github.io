@@ -17,7 +17,7 @@ table, tbody, td, th {
 </style>
 <!-- Custom table for the resume: easier alignment-->
 <!-- JS to automatically put date?-->
-You can find a more complete resume [here]({{ base_path }}/files/fargeCV0621.pdf) (last updated June 2021).
+You can find a more complete resume [here]({{ base_path }}/files/fargeCV0322.pdf) (last updated March 2022).
 {: .notice}
 
 ## Education
@@ -29,8 +29,8 @@ You can find a more complete resume [here]({{ base_path }}/files/fargeCV0621.pdf
 
 ## Research experience
 
-| 2021 — | Res. stay | *Tectonophysics group, MIT* | with W. Frank |
 | 2017 — | PhD res.  | *Seismo. and GFD group, IPGP* | with N. Shapiro, C. Jaupart |
+| 2021 — 2022 | Res. stay | *Tectonophysics group, MIT* | with W. Frank |
 | 2017   | MSc2 res. | *Seismo. group, IPGP* | with N. Shapiro, W. Frank |
 | 2016   | MSc1 res. | *SeismoLab, UC Berkeley* | with R. Bürgmann |
 | 2015   | BSc res.  | *Laboratoire de Géologie, ENS* | with A. Schubnel, M. Vallée |

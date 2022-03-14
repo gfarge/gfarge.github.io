@@ -15,8 +15,8 @@ to understand how fluids flow, trickle, or gush in faults and volcanic systems.
 My PhD usually takes place at the Institut de physique du globe de Paris, under
 the supervision of [Claude Jaupart](https://scholar.google.com/citations?user=yVzGHqkAAAAJ) 
 and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/accueil). 
-Right now, I am visiting [William Frank's group at MIT](https://eqsci.mit.edu/tecto/), 
-for a 6-months visiting stay.
+I just came back from visiting [William Frank's group at MIT](https://eqsci.mit.edu/tecto/), 
+for a 6-months visiting stay as a Fulbright fellow.
 
 *I am actively looking for postdoc positions, feel free to reach out!*
 
