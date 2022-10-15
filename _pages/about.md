@@ -31,13 +31,19 @@ I will start my postdoctoral research in the Seismology Laboratory of UC Santa C
 {: .text-center}
 ## 📬 *News*
 
+---
+
 📅 *7 September 2022* : I defended my PhD thesis! A recording of the defense
 can be found [here](https://vimeo.com/760600446).
+{: .small}
+
+---
 
 📅 *7 July 2022* : Finished writing my PhD thesis, you can find the manuscript
 [here](https://www.researchgate.net/publication/364335456_Sounds_of_Geological_Plumbing_Systems_-_How_transient_fluid_circulation_processes_in_faults_and_volcanoes_shape_sources_and_patterns_of_microseismicity).
+{: .small}
 
-Our [paper](https://doi.org/10.1126/sciadv.abj1571) on seismic tremor under Kamtchatka volcanoes is out in Science Advances!
+---
 
 📅 *2 February 2022* : Our [paper](https://doi.org/10.1126/sciadv.abj1571) on seismic tremor under Kamtchatka volcanoes is out in Science Advances!
 {: .small}
