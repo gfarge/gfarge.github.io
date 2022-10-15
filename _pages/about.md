@@ -12,13 +12,11 @@ Hi! I am a seismologist and geophysicist, and in my research, I use
 **spatio-temporal patterns** and **source properties** of **microseismicity**
 to understand how fluids flow, trickle, or gush in faults and volcanic systems.
 
-My PhD usually takes place at the Institut de physique du globe de Paris, under
+I recently defended my PhD thesis at the Institut de physique du globe de Paris, under
 the supervision of [Claude Jaupart](https://scholar.google.com/citations?user=yVzGHqkAAAAJ) 
 and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/accueil). 
-I just came back from visiting [William Frank's group at MIT](https://eqsci.mit.edu/tecto/), 
-for a 6-months visiting stay as a Fulbright fellow.
 
-*I am actively looking for postdoc positions, feel free to reach out!*
+I will start my postdoctoral research in the Seismology Laboratory of UC Santa Cruz, working with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/) on what the dynamic triggering of earthquakes by passing seismic waves can reveal about how fluid flows in the crust.
 
 ## Research and project interests
 
@@ -32,6 +30,14 @@ for a 6-months visiting stay as a Fulbright fellow.
 &#9677;
 {: .text-center}
 ## 📬 *News*
+
+📅 *7 September 2022* : I defended my PhD thesis! A recording of the defense
+can be found [here](https://vimeo.com/760600446).
+
+📅 *7 July 2022* : Finished writing my PhD thesis, you can find the manuscript
+[here](https://www.researchgate.net/publication/364335456_Sounds_of_Geological_Plumbing_Systems_-_How_transient_fluid_circulation_processes_in_faults_and_volcanoes_shape_sources_and_patterns_of_microseismicity).
+
+Our [paper](https://doi.org/10.1126/sciadv.abj1571) on seismic tremor under Kamtchatka volcanoes is out in Science Advances!
 
 📅 *2 February 2022* : Our [paper](https://doi.org/10.1126/sciadv.abj1571) on seismic tremor under Kamtchatka volcanoes is out in Science Advances!
 {: .small}
