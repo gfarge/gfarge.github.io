@@ -12,8 +12,8 @@ author_profile: true
 
 * **Sounds of geological plumbing systems — How transient fluid circulation processes in
   faults and volcanoes shape sources and patterns of microseismicity**
-	* 7 Sep 2022 — IPGP, *PhD defense*
 	* 2 Feb 2023 — ISTerre, Tectonics and Seismology seminar <span style="color:deeppink"><sup>***‡***</sup></span>
+	* 7 Sep 2022 — IPGP, *PhD defense*
 * **Noisy pipes: how intermittent fluid transport in faults could be responsible
   for swarm seismicity** <span style="color:deeppink"><sup>***‡***</sup></span>
   8 Dec 2021 — MIT Earth Resources Laboratory

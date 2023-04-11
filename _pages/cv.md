@@ -23,7 +23,7 @@ You can find a more complete resume [here]({{ base_path }}/files/fargeCV0322.pdf
 ## Research experience
 
 | 2023 — | Postdoc  | *Seismo group, UCSC* | with E. Brodsky |
-| 2017 — 2023 | PhD res.  | *Seismo. and GFD group, IPGP* | with N. Shapiro, C. Jaupart |
+| 2017 — 2023 | PhD res.  | *Seismo. and GFD group, IPGP* | with C. Jaupart & N. Shapiro |
 | 2021 — 2022 | Res. stay | *Tectonophysics group, MIT* | with W. Frank |
 | 2017   | MSc2 res. | *Seismo. group, IPGP* | with N. Shapiro, W. Frank |
 | 2016   | MSc1 res. | *SeismoLab, UC Berkeley* | with R. Bürgmann |
