@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaspard Farge"
 title_separator          : "-"
 name                     : &name "Gaspard Farge"
-description              : &description "PhD candidate at IPGP"
+description              : &description "Postdoc in UCSC"
 url                      : https://gfarge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gfarge/gfarge.github.io"
@@ -86,8 +86,8 @@ author:
   location         : "Paris, FR"
   employer         :
   pubmed           :
-  googlescholar    : "http://https://scholar.google.fr/citations?user=AAaJThUAAAAJ.com"
-  email            : "farge@ipgp.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=AAaJThUAAAAJ&hl=en&authuser=1"
+  email            : "gafarge@ucsc.edu"
   researchgate     : "https://www.researchgate.net/profile/Gaspard_Farge"
   uri              :
   bitbucket        :
