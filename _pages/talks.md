@@ -12,6 +12,8 @@ author_profile: true
 
 * **Sounds of geological plumbing systems — How transient fluid circulation processes in
   faults and volcanoes shape sources and patterns of microseismicity**
+	* 17 Oct 2023 — Berkeley Seismological Laboratory seminar series <span style="color:deeppink"><sup>***‡***</sup></span>
+	* 27 Sep 2023 — LDEO, Columbia University, Geophysics seminar <span style="color:deeppink"><sup>***‡***</sup></span>
 	* 2 Feb 2023 — ISTerre, Tectonics and Seismology seminar <span style="color:deeppink"><sup>***‡***</sup></span>
 	* 7 Sep 2022 — IPGP, *PhD defense*
 * **Noisy pipes: how intermittent fluid transport in faults could be responsible
@@ -27,6 +29,10 @@ author_profile: true
 ---
 ## Conference presentations
 
+* **Along-strike segmentation of seismic tremor and its relationship with the
+  hydraulic structure of the subduction fault zone** *(poster)*  
+  International joint workshop on Slow-to-Fast Earthquakes 2023  
+  <a href="https://gfarge.github.io/files/poster_sfeq_2023.pdf" target="_blank" class="btn btn--small" id="doi-btn">poster</a>
 * **Clogging and un-clogging of the subduction plumbing system draws tremor-like patterns** *(poster)*  
   Doctoral Congress of IPGP, 2021  
   <a href="https://gfarge.github.io/files/posterCD321.pdf" target="_blank" class="btn btn--small" id="doi-btn">poster</a>

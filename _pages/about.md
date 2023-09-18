@@ -12,7 +12,7 @@ Hi! I am a seismologist and geophysicist, and in my research, I use
 **spatio-temporal patterns** and **source properties** of **microseismicity**
 to understand how fluids flow, trickle, or gush in faults and volcanic systems.
 
-I am starting my postdoctoral research in the Seismology Laboratory of UC Santa Cruz, working with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/) on the patterns of seismicity of classical and low-frequency earthquakes on the San Andreas faults and beyond.
+I am working as a postdoc in the Seismology Laboratory of UC Santa Cruz, working with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/) on the patterns of seismicity of classical and low-frequency earthquakes on the San Andreas fault and beyond.
 
 I recently defended my PhD thesis at the Institut de physique du globe de Paris, under
 the supervision of [Claude Jaupart](https://scholar.google.com/citations?user=yVzGHqkAAAAJ) 
@@ -31,6 +31,23 @@ and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/acc
 &#9677;
 {: .text-center}
 ## 📬 *News*
+
+---
+
+📅 *17 Octer 2023* : Invited to talk in the Berkeley Seismology Lab seminar
+series
+{: .small}
+
+---
+
+📅 *27 September 2023* : Invited to talk in the Geophysics seminar in
+Lamont-Doherty Earth Observatory of Columbia University
+{: .small}
+
+---
+
+📅 *12-15 September 2023* : Presented a [poster]("https://gfarge.github.io/files/poster_sfeq_2023.pdf") in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
+{: .small}
 
 ---
 

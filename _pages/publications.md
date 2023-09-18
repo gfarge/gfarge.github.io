@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+* **Along-strike segmentation of seismic tremor and its relationship with the
+  hydraulic structure of the subduction fault zone**  
+  By **G. Farge**, C. Jaupart, W.B. Frank and N.M Shapiro (2023)  
+  *Submitted to* Journal of Geophysical Research  
+  <a href=""https://essopenarchive.org/users/640932/articles/658315-along-strike-segmentation-of-seismic-tremor-and-its-relationship-with-the-hydraulic-structure-of-the-subduction-fault-zone target="_blank" class="btn btn--small" id="doi-btn">preprint</a>
+  <a href="https://gfarge.github.io/files/farge2023Along_preprint.pdf" target="_blank" class="btn btn--small" id="doi-btn">pdf</a>
+
+
 ## 2022
 * **Seismic tremor reveals active trans-crustal magmatic system beneath
   Kamtchatka volcanoes**  
