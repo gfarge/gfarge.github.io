@@ -46,7 +46,7 @@ LDEO (Columbia University, NY)
 
 ---
 
-📅 *12-15 September 2023* : Presented a [poster](https://gfarge.github.io/files/poster_sfeq_2023.pdf) in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
+📅 *12-15 September 2023* : Presented a poster in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
 {: .small}
 
 ---
