@@ -34,19 +34,19 @@ and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/acc
 
 ---
 
-📅 *17 Octer 2023* : Invited to talk in the Berkeley Seismology Lab seminar
+📅 *17 October 2023* : Invited to talk in the Berkeley Seismology Lab seminar
 series
 {: .small}
 
 ---
 
 📅 *27 September 2023* : Invited to talk in the Geophysics seminar in
-Lamont-Doherty Earth Observatory of Columbia University
+LDEO (Columbia University, NY)
 {: .small}
 
 ---
 
-📅 *12-15 September 2023* : Presented a [poster]("https://gfarge.github.io/files/poster_sfeq_2023.pdf") in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
+📅 *12-15 September 2023* : Presented a [poster](https://gfarge.github.io/files/poster_sfeq_2023.pdf) in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
 {: .small}
 
 ---
