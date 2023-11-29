@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a seismologist and geophysicist, and in my research, I use
-**spatio-temporal patterns** and **source properties** of **microseismicity**
+spatio-temporal patterns and source properties of microseismicity
 to understand how fluids flow, trickle, or gush in faults and volcanic systems.
 
 I am working as a postdoc in the Seismology Laboratory of UC Santa Cruz, working with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/) on the patterns of seismicity of classical and low-frequency earthquakes on the San Andreas fault and beyond.
@@ -31,6 +31,10 @@ and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/acc
 &#9677;
 {: .text-center}
 ## 📬 *News*
+---
+
+📅 *28 November 2023* : Our [paper](http://doi.org/10.1029/2023JB027584) on how to interpret the segmentation of tremor intermittence in subduction zones is out in JGR Solid Earth! ([open research version](https://hal.science/hal-04312844)).
+{: .small}
 
 ---
 

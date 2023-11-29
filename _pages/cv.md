@@ -36,6 +36,7 @@ You can find a more complete resume [here]({{ base_path }}/files/fargeCV0423.pdf
 | 2017    | **M.Sc. in Geophysics**, *Institut de physique du globe de Paris - École Normale Supérieure* |
 | 2015    | **B.Sc. in Earth, Atmospheric and Planetary Sciences**, *Sorbonne Université - École Normale Supérieure* |
 
+*[UCSC]: University of California Santa Cruz
 *[MIT]: Massachusetts Institute of Technology
 *[GFD]: Geological fluid dynamics
 *[IPGP]: Institut de physique du globe de Paris
