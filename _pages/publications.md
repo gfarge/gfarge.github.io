@@ -15,8 +15,9 @@ author_profile: true
 
 
 ## 2022
-* __Seismic tremor reveals active trans-crustal magmatic system beneath
-  Kamtchatka volcanoes__  
+* Seismic tremor reveals active trans-crustal magmatic system beneath
+  Kamtchatka volcanoes  
+  {:.bold}
   By Cyril Journeau, N. Shapiro, L. Seydoux, J. Soubestre, I. Koulakov, A.
   Jakovlev, I. Abkadyrov, E. Gordeev, D. Chebrov, D. Droznin, C.
   Sens-Schönfelder, B. Luehr, F. Tong, __G. Farge__ and C. Jaupart (2022)  
