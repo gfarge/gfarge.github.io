@@ -30,7 +30,7 @@ I am currently working as a postdoc in the Seismology Laboratory of UC Santa Cru
 ---
 
 📅 *9 September 2024* : Invited to present our work on interactions between regular
-and low frequency seismicity in the CSEP workshop at the SCEC meeting! Find my poster on the same project [here]().
+and low frequency seismicity in the CSEP workshop at the SCEC meeting! Find my poster on the same project [here]("https://gfarge.github.io/files/scec24_poster.pdf").
 {: .small}
 
 ---
@@ -42,6 +42,7 @@ and low frequency seismicity in the CSEP workshop at the SCEC meeting! Find my p
 
 📅 *29 April-May 3 2024* : Presented our work on interactions between
 earthquakes and tremor at the 2024 SSA Annual Meeting
+{: .small}
 
 ---
 
