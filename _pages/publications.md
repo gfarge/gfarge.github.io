@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+* __The Big Impact of Small Quakes on Tectonic Tremor Synchronization__
+  By __G. Farge__, E. Brodsky (in review, 2024)
+  <a href="https://gfarge.github.io/files/scec24_poster.pdf" target="_blank" class="btn btn--small" id="doi-btn">poster</a>
+
 ## 2023
 * __Along-strike segmentation of seismic tremor and its relationship with the
   hydraulic structure of the subduction fault zone__  

@@ -9,19 +9,15 @@ redirect_from:
 ---
 
 Hi! I am a seismologist and geophysicist, and in my research, I use
-spatio-temporal patterns and source properties of microseismicity
-to understand how fluids flow, trickle, or gush in faults and volcanic systems.
+spatio-temporal patterns of microseismicity and simple modeling approaches to understand how seismogenic system organize, and the physical processes underpinning it.
 
-I am working as a postdoc in the Seismology Laboratory of UC Santa Cruz, working with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily_brodsky/) on the patterns of seismicity of classical and low-frequency earthquakes on the San Andreas fault and beyond.
-
-I recently defended my PhD thesis at the Institut de physique du globe de Paris, under
-the supervision of [Claude Jaupart](https://scholar.google.com/citations?user=yVzGHqkAAAAJ) 
-and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/accueil). 
+I am currently working as a postdoc in the Seismology Laboratory of UC Santa Cruz. I work mainly with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily-brodsky), investigating how regular earthquakes and tectonic tremor interact, to understand how fault system can organize into regular seismicity patterns.
 
 
 ## Research and project interests
 
-* The architecture, dynamics and evolution of fluid circulation pathways in faults, volcanoes and glaciers
+* Understanding the complexity of seismic systems by studying interactions
+* The architecture, dynamics and evolution of fluid circulation pathways in faults and volcanoes
 * Seismic/accoustic signals as ways to understand minute geophysical processes
 * Numerical and experimental modeling to study *all* geophysical and planetary processes!
 {: .text-left}
@@ -31,6 +27,27 @@ and [Nikolai Shapiro](https://sites.google.com/view/nikolai-shapiro-web-site/acc
 &#9677;
 {: .text-center}
 ## 📬 *News*
+---
+
+📅 *9 September 2024* : Invited to present our work on interactions between regular
+and low frequency seismicity in the CSEP workshop at the SCEC meeting! Find my poster on the same project [here]().
+{: .small}
+
+---
+
+📅 *14 May 2024* : Invited to present my PhD work to the Small Earthquakes group at University of Oregon
+{: .small}
+
+---
+
+📅 *29 April-May 3 2024* : Presented our work on interactions between
+earthquakes and tremor at the 2024 SSA Annual Meeting
+
+---
+
+📅 *21 March 2024* : Invited to present my PhD work at Géoazur
+{: .small}
+
 ---
 
 📅 *28 November 2023* : Our [paper](http://doi.org/10.1029/2023JB027584) on how to interpret the segmentation of tremor intermittence in subduction zones is out in JGR Solid Earth! ([open research version](https://hal.science/hal-04312844)).
