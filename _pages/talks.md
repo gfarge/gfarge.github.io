@@ -10,7 +10,7 @@ author_profile: true
 ## Seminars
 
 * 14 May 2024 — University of Oregon, Small Earthquakes group seminar
-* 21 March 2024 — Séminaire Géoazur
+* 21 March 2024 — Géoazur, Université de la Côte d'Azur
 * 17 Oct 2023 — Berkeley Seismological Laboratory seminar series
 * 27 Sep 2023 — LDEO, Columbia University, Geophysics seminar
 * 2 Feb 2023 — ISTerre, Tectonics and Seismology seminar
@@ -41,5 +41,5 @@ author_profile: true
   <a href="https://ui.adsabs.harvard.edu/abs/2020AGUFMS031.0011F/abstract" target="_blank" class="btn btn--small" id="doi-btn">abstract</a>
 * IPGP-ERI joint meeting, 2019
   <a href="https://gfarge.github.io/files/poster_IPGP-ERI19.pdf" target="_blank" class="btn btn--small" id="doi-btn">poster</a>
-* AGU Fall meeting, 2017 (talk*)
+* AGU Fall meeting, 2017 (*talk*)
   <a href="https://ui.adsabs.harvard.edu/abs/2017AGUFM.S53F..03F/abstract" target="_blank" class="btn btn--small" align="right" id="doi-btn">abstract</a>

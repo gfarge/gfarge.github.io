@@ -46,7 +46,7 @@ earthquakes and tremor at the 2024 SSA Annual Meeting
 
 ---
 
-📅 *21 March 2024* : Invited to present my PhD work at Géoazur
+📅 *21 March 2024* : Invited to present my PhD work at Géoazur (Nice, Fr)
 {: .small}
 
 ---
@@ -56,7 +56,7 @@ earthquakes and tremor at the 2024 SSA Annual Meeting
 
 ---
 
-📅 *17 October 2023* : Invited to talk in the Berkeley Seismology Lab seminar
+📅 *17 October 2023* : Invited to talk in the UC Berkeley Seismology Lab seminar
 series
 {: .small}
 
@@ -68,7 +68,7 @@ LDEO (Columbia University, NY)
 
 ---
 
-📅 *12-15 September 2023* : Presented a poster in the Slow-to-Fast earthquakes international workshop, in Tokyo (Japan)
+📅 *12-15 September 2023* : Presented a poster in the Slow-to-Fast earthquakes international workshop, in Tokyo
 {: .small}
 
 ---
