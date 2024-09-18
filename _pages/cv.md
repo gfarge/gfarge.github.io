@@ -17,7 +17,7 @@ table, tbody, td, th {
 </style>
 <!-- Custom table for the resume: easier alignment-->
 <!-- JS to automatically put date?-->
-You can find a more complete resume [here]({{ base_path }}/files/fargeCV0423.pdf) (last updated April 2023).
+You can find a more complete resume [here]({{ base_path }}/files/farge_cv_0924.pdf) (last updated September 2024).
 {: .notice}
 
 ## Research experience
