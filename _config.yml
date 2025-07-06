@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gaspard Farge"
 title_separator          : "-"
 name                     : &name "Gaspard Farge"
-description              : &description "Postdoc in UCSC"
+description              : &description "Postdoc in ENS"
 url                      : https://gfarge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gfarge/gfarge.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gaspard Farge"
   avatar           : "profile.jpeg"
-  bio              : "synchronization and interactions in seismic systems"
+  bio              : "interactions in seismic systems"
   location         : "Paris, Fr"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=AAaJThUAAAAJ&hl=en&authuser=1"
-  email            : "gafarge@ucsc.edu"
+  email            : "gfarge@geologie.ens.fr"
   researchgate     : "https://www.researchgate.net/profile/Gaspard_Farge"
   uri              :
   bitbucket        :

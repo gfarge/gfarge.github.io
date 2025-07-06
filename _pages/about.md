@@ -8,27 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a seismologist and geophysicist, and in my research, I use
-spatio-temporal patterns of microseismicity and simple modeling approaches to understand how seismogenic system organize, and the physical processes underpinning it.
+Hi! I am a seismologist and geophysicist. In my research, I use spatio-temporal patterns of microseismicity 
+and simple modeling approaches to understand how seismogenic systems organize, 
+and the physical processes underpinning it.
 
-I am currently working as a postdoc in the Seismology Laboratory of UC Santa Cruz. I work mainly with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily-brodsky), investigating how regular earthquakes and tectonic tremor interact, to understand how fault system can organize into regular seismicity patterns.
+I am currently working as a postdoc in the Laboratoire de Géologie de l’École
+Normale Supérieure, mainly with [Romain Jolivet](https://www.geologie.ens.fr/~jolivet/Welcome.html). 
+We are investigating the mechanisms that shape seismicity in places where we expect it the least:
+in continental interiors, far from plate boundaries.
 
+I used to be working as a postdoc in the Seismology Laboratory of UC Santa Cruz, with [Emily Brodsky](https://websites.pmc.ucsc.edu/~seisweb/emily-brodsky), investigating how regular earthquakes and tectonic tremor interact, to understand how fault system can organize into regular seismicity patterns.
 
-## Research and project interests
-
-* Understanding the complexity of seismic systems by studying interactions
-* The architecture, dynamics and evolution of fluid circulation pathways in faults and volcanoes
-* Seismic/accoustic signals as ways to understand minute geophysical processes
-* Numerical and experimental modeling to study *all* geophysical and planetary processes!
 {: .text-left}
-
- 
-
 &#9677;
 {: .text-center}
 ## 📬 *News*
 ---
-
+<div style="overflow-y: scroll; height:400px;">
 📅 *9 September 2024* : Invited to present our work on interactions between regular
 and low frequency seismicity in the CSEP workshop at the SCEC meeting! Find my poster on the same project [here]("https://gfarge.github.io/files/scec24_poster.pdf").
 {: .small}
@@ -175,3 +171,4 @@ for a shorter walkthrough!
   </details>
 </details>
 {: .small}
+</div>
