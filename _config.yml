@@ -88,7 +88,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=AAaJThUAAAAJ&hl=en&authuser=1"
   email            : "gfarge@geologie.ens.fr"
-  researchgate     : "https://www.researchgate.net/profile/Gaspard_Farge"
+  researchgate     : # "https://www.researchgate.net/profile/Gaspard_Farge"
   uri              :
   bitbucket        :
   codepen          :
