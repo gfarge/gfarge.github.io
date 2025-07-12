@@ -211,4 +211,18 @@ img {
     margin: 0; /* Remove default margin */
 }
 
+.cv-table {
+    vertical-align: top; /* Align content at the top of the cells */
+}
 
+.cv-table td {
+    padding-right: 10px; /* Add padding for better readability */
+}
+
+.cv-table a {
+    color:#000; /* Set link color to black */
+    text-decoration: none; /* Remove underline from links */
+}
+.cv-table a:hover {
+    text-decoration: underline; /* Show underline on hover */
+}
