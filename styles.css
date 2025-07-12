@@ -1,0 +1,214 @@
+/* General styles */
+body {
+    font-family: 'Spectral', serif; /* Apply Spectral to body text */
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Set background to white */
+    color: #000000;
+}
+
+/* Navigation bar styles */
+.navigation {
+    background-color: #fff; /* White background */
+    border: 1px solid #000; /* Black border */
+    padding: 0px 20px; /* Add padding */
+    text-align: center; /* Center align navigation items */
+    max-width: 800px; /* Match the width of the main container */
+    margin: 0 auto; /* Center the navigation bar */
+    display: flex; /* Use flexbox to divide the navigation bar */
+}
+
+.nav-home {
+    width: 20%; /* Take up 20% of the width */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.nav-pages {
+    width: 80%; /* Take up 80% of the width */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+.navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navigation ul li {
+    margin: 0 20px;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    color: #000000; /* Black color for navigation links */
+    font-weight: bold;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.2em;
+}
+
+.navigation ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main container styles */
+.main-container {
+    display: flex;
+    max-width: 800px; /* Ensure the width matches the navigation bar */
+    margin: 10px auto; /* Center the main container */
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #000; /* Add thin black border */
+}
+
+/* Left column styles */
+.profile-container {
+    width: 20%; /* Take up 20% of the width */
+    padding-right: 20px; /* Add spacing to the right */
+    font-size: 1em; /* Reduce font size for a more compact look */
+    padding: 10 px;
+}
+
+.profile-container img {
+    width: 100%; /* Make the image responsive */
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile-container .me {
+    margin-bottom: 20px;
+    margin-top: 10px; /* Add top margin for spacing */
+}
+
+.profile-container .me h1 {
+    font-family: 'Inconsolata', monospace; /* Apply Inconsolata font */
+    font-weight: bold;
+    font-size: 1.4em;;
+    color: #000; /* Set font color to black */
+    margin-bottom: 0px; /* Add spacing below the name */
+    margin-top: 0px; /* Remove top margin for a tighter look */
+}
+
+.profile-container .me p { /* same as body */
+    font-family: 'Spectral', serif; /* Apply Spectral to the paragraph */
+    font-size: 1em; /* Match body font size */
+    color: #000; /* Set font color to black */
+    margin: 0; /* Remove default margin */
+}
+
+.profile-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: .9em; /* Reduce font size for a more compact look */
+}
+
+.profile-container ul li {
+    margin-bottom: 4px; /* spacing between list items */
+    color: #000; /* Black color for socials */
+}
+
+.profile-container ul li a {
+    color: #000; /* Black color for social links */
+    text-decoration: none;
+}
+
+.profile-container ul li a:hover {
+    text-decoration: underline;
+}
+
+.social-links {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 50px;
+    font-size: .9em; /* Reduce font size for a more compact look */
+}
+
+.social-links a {
+    color: #000; /* Set a specific color for social links */
+    text-decoration: none;
+}
+
+/* Right column (presentation container) styles */
+.presentation-container {
+    width: 80%; /* Take up 80% of the width */
+    padding-left: 20px; /* Add spacing to the left */
+}
+
+/* Header styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inconsolata', monospace; /* Apply Inconsolata to headers */
+}
+
+h2 {
+    font-family: 'Inconsolata', monospace; /* Match header font */
+    font-size: 1.5em; /* Slightly smaller than h1 */
+    font-weight: bold; /* Emphasize h2 text */
+    margin-bottom: 10px; /* Add spacing below h2 */
+    color: #333; /* Use a dark color for readability */
+}
+
+/* Link styles */
+a {
+    color: #6a5eff; /* Set link color to lighter blue */
+    text-decoration: none; /* Remove underline from all links by default */
+}
+
+a:hover {
+    text-decoration: underline; /* Show underline only on hover */
+}
+
+
+/* Image styles */
+img {
+    border: 2px solid black; /* Add a black border around the image */
+}
+
+/* Scroll block styles */
+.scroll-block {
+    max-height: 200px; /* Set a fixed height for the scroll block */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 0px; /* Add padding inside the block */
+    font-size: 0.9em; /* Slightly smaller text */
+    line-height: 1.4; /* Adjust line spacing for readability */
+}
+
+.scroll-block ul {
+    padding-left: 0; /* Remove left padding for the list */
+}
+
+.scroll-block ul li {
+    list-style: none;
+    margin-bottom: 4px; /* spacing between list items */
+    color: #000; /* Black color for scroll block items */
+}
+
+.scroll-block h3 {
+    margin-top: 5px; /* Reduce top margin */
+    margin-bottom: 5px; /* Reduce bottom margin */
+}
+
+/* News table styles */
+.news-table td {
+    vertical-align: top; /* Align content at the top of the cells */
+    padding: 2px; /* Add some padding for better readability */
+}
+
+.news-table td h3 {
+    vertical-align: top; /* Align content at the top of the cells */
+    padding: 0 5px; /* Add some padding for better readability */
+    margin: 0; /* Remove default margin */
+}
+
+
