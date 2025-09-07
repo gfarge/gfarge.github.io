@@ -8,6 +8,10 @@ body {
     color: #000000;
 }
 
+em {
+    color: #f83a5c;
+}
+
 /* Navigation bar styles */
 .navigation {
     background-color: #fff; /* White background */
@@ -169,6 +173,28 @@ a:hover {
     text-decoration: underline; /* Show underline only on hover */
 }
 
+/* Button styles */
+.button {
+    display: inline-block;
+    background-color: #6a5eff; /* Use link color */
+    color: #fff; /* White text */
+    padding: 1px 5px; /* vertical, horizontal */
+    border: none;
+    border-radius: 10px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.button:hover {
+    background-color: #554be6; /* Slightly darker on hover */
+    text-decoration: underline;
+}
+
 
 /* Image styles */
 img {
@@ -182,6 +208,7 @@ img {
     padding: 0px; /* Add padding inside the block */
     font-size: 0.9em; /* Slightly smaller text */
     line-height: 1.4; /* Adjust line spacing for readability */
+
 }
 
 .scroll-block ul {
@@ -226,3 +253,5 @@ img {
 .cv-table a:hover {
     text-decoration: underline; /* Show underline on hover */
 }
+
+
