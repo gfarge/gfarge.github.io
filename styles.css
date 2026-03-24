@@ -195,10 +195,51 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Plain/invisible link class
+   - inherits font properties from surrounding text (color, font-family, size)
+   - shows a black underline on hover/focus for discoverability
+   - suitable for inline links that should not change visual weight
+*/
+.plain-link {
+    color: inherit; /* use surrounding text color */
+    font: inherit; /* inherit font-family, size, weight */
+    text-decoration: none; /* no underline by default */
+    border-bottom: none;
+}
+
+.plain-link:hover,
+.plain-link:focus {
+    color: inherit; /* keep the same color */
+    text-decoration: underline; /* underline on hover/focus */
+    text-decoration-color: #000; /* underline in black */
+    outline: none; /* remove default focus outline (we add visible focus below) */
+}
+
+/* Accessible focus style — visible for keyboard users */
+.plain-link:focus {
+    box-shadow: 0 1px 0 0 #000 inset; /* thin black inset to mimic underline */
+}
+
 
 /* Image styles */
 img {
     border: 2px solid black; /* Add a black border around the image */
+}
+
+/* Figure class for images that should span the text width inside the
+   presentation container. This overrides the global img border so figures
+   look clean when displayed full-width. */
+a:has(> img.figure) {
+    display: block;
+    width: 100%;
+}
+
+.figure {
+    width: 100%;   /* full width of the containing element (presentation-container) */
+    height: auto;  /* preserve aspect ratio */
+    display: block;
+    margin: 12px 0; /* spacing above/below figure */
+    border: none;   /* remove global border for these figures */
 }
 
 /* Scroll block styles */
