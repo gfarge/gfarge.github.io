@@ -81,6 +81,8 @@ em {
     padding-right: 20px; /* Add spacing to the right */
     font-size: 1em; /* Reduce font size for a more compact look */
     padding: 10 px;
+    display: flex;
+    flex-direction: column;
 }
 
 .profile-container img {
@@ -108,6 +110,16 @@ em {
     font-size: 1em; /* Match body font size */
     color: #000; /* Set font color to black */
     margin: 0; /* Remove default margin */
+    line-height: 1.1; /* Smaller line spacing for a more compact look */
+    
+}
+
+.profile-container .address-card {
+    margin-top: auto;
+    margin-bottom: 0;
+    padding: 7px 8px;
+    border: 1px solid #000;
+    font-size: 0.8em;
 }
 
 .profile-container ul {
