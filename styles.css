@@ -81,8 +81,6 @@ em {
     padding-right: 20px; /* Add spacing to the right */
     font-size: 1em; /* Reduce font size for a more compact look */
     padding: 10 px;
-    display: flex;
-    flex-direction: column;
 }
 
 .profile-container img {
@@ -115,7 +113,7 @@ em {
 }
 
 .profile-container .address-card {
-    margin-top: auto;
+    margin-top: 0;
     margin-bottom: 0;
     padding: 7px 8px;
     border: 1px solid #000;
@@ -145,7 +143,7 @@ em {
 
 .social-links {
     padding-top: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-left: 0px;
     padding-right: 50px;
     font-size: .9em; /* Reduce font size for a more compact look */
